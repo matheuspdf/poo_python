@@ -9,5 +9,5 @@ class CsvHandler:
         print(f'read data in {self.dir}')
 
 
-csv_handle = CsvHandler('o/caminho//do/diretorio/.csv')
+csv_handle = CsvHandler('o/caminho/do/diretorio/.csv')
 csv_handle.read_data()
