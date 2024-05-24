@@ -1,5 +1,5 @@
 # Orientação a Objetos em Python
-### Estudo de POO em Python ministrado pelo Rafa do canal `[Programador Lhama](https://www.youtube.com/@ProgramadorLhama/videos)`
+### Estudo de POO em Python ministrado pelo Rafa do canal [Programador Lhama](https://www.youtube.com/@ProgramadorLhama/videos)
 
 ## Introdução Teórica
 
